@@ -1,0 +1,56 @@
+#logo{
+    margin-left:40px;
+    width:100px;
+  }
+#mc{
+  border-radius:10px;
+  height:45rem;
+  background-color: #d9e4f5;
+background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
+  
+}
+.empName{
+  font-family: 'Permanent Marker', cursive;
+}
+.listhead {
+  font-family: 'Oswald', sans-serif;
+  color:white;
+}
+.ans{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1rem;
+  color:rgb(9, 9, 90);
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding-left: 1em; 
+  text-indent: -.7em;
+}
+
+li.am::before {
+  content: "• ";
+  color: rgb(9, 9, 90); 
+}
+.jo{
+    width: 400px;
+    height:600px;
+    border-radius: 50px;
+    background-color: #fbfbfb;
+background-image: linear-gradient(315deg, #fbfbfb 0%, #f9886c 74%);
+    
+    
+}
+
+.sidelist {
+    color:black;
+    font-family: 'Roboto', sans-serif;
+    padding-top:5px;
+ 
+    font-size: 20px;
+    text-align: center;
+}

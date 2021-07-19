@@ -1,0 +1,32 @@
+
+.cardbt{
+  border-radius: 5px;
+  width:250px;
+  height:150px;
+  background-color: #d9e4f5;
+  background-image: linear-gradient(315deg, #d9e4f5 0%, #fdbec8 74%);
+  text-decoration: none;
+
+}
+.navbar-nav{
+  padding-left:300px;
+}
+#main-card{
+border-radius: 10px;
+height:95%;
+
+    height:45rem;
+    background-color: #d9e4f5;
+background-image: linear-gradient(315deg, #d9e4f5 0%, #fce4e8 74%);
+
+}
+#logo{
+  margin-left:40px;
+  width:100px;
+}
+
+  #abc{
+    margin-left:10px;
+list-style-type: disc;
+  }
+  
